@@ -4,7 +4,7 @@ import Base from "../core/Base";
 const ManageCategories = () => {
   return (
     <Base>
-      <h1 className="text-white">Your assignment</h1>
+      <h1 className="text-white"></h1>
     </Base>
   );
 };
